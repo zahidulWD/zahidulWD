@@ -1,13 +1,22 @@
-![MasterHead](https://i.ibb.co.com/Kz9HjVnG/github-cover.png)
-<h1 align="left">Hi 👋, I'm Zahidul Islam</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+![MasterHead](https://i.ibb.co.com/xtFzzcgS/github-cover.png)
+<h1 align="left">Md.Zahidul Islam</h1>
+<h3 align="left">Front-End Developer | JavaScript | React | Tailwind CSS</h3>
+<hr style="width: 350px; height: 2px; background-color: #00b4d8; border: none; margin-left: 0;" />
+
+<h3 align="left">A Passionate Front-End Developer from Bangladesh</h3>
 <img align="right" width="400" alt="coding" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" />
 
-- 🌱 I’m currently learning **ReactJS**
+---
 
-- 📫 How to reach me **zahidul670791@gmail.com**
+### 🌱 Currently Learning
+I’m enhancing my skills in **ReactJS** and building interactive, responsive web applications.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Oj5PzllK2MXN7vzBpG9A2F91VMqX8LjC/view](https://drive.google.com/file/d/1Oj5PzllK2MXN7vzBpG9A2F91VMqX8LjC/view)
+### 📫 Contact Me
+You can reach me at: **[zahidul670791@gmail.com](mailto:zahidul670791@gmail.com)**
+
+### 📄 My Resume
+Know more about my experiences and projects:  
+[View My Resume](https://drive.google.com/file/d/1Oj5PzllK2MXN7vzBpG9A2F91VMqX8LjC/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
