@@ -1,27 +1,88 @@
-![MasterHead](https://i.ibb.co/xtFzzcgS/github-cover.png)
-<h1 align="left">Md.Zahidul Islam</h1>
-<h3 align="left">Front-End Developer | JavaScript | React | Tailwind CSS</h3>
-<hr style="width: 350px; height: 2px; background-color: #00b4d8; border: none; margin-left: 0;" />
+![Banner](https://i.imgur.com/Nn3zAOd.png)
 
-<h3 align="left">A Passionate Front-End Developer from Bangladesh</h3>
-<img align="right" width="400" alt="coding" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" />
+# Md. Zahidul Islam
+
+### Front-End Developer &nbsp;||&nbsp; JavaScript Enthusiast &nbsp;||&nbsp; React Learner
 
 ---
 
-### 🌱 Currently Learning
-I’m enhancing my skills in **ReactJS** and building interactive, responsive web applications.
+## **ABOUT ME**
+### Passion • Objective • Progress
 
-### 📫 Contact Me
-You can reach me at: **[zahidul670791@gmail.com](mailto:zahidul670791@gmail.com)**
+📌 I’m a passionate and dedicated **Front-End Developer** from Bangladesh who loves crafting interactive and user-friendly web experiences.  
+I believe in writing clean, efficient, and maintainable code that not only solves problems but also delivers meaningful user experiences.
 
-### 📄 My Resume
-Know more about my experiences and projects:  
-[View My Resume](https://drive.google.com/file/d/1Oj5PzllK2MXN7vzBpG9A2F91VMqX8LjC/view)
+⚙️ I’m focused on learning modern web technologies and improving my ability to turn ideas into fully functional, responsive web applications.
 
-<h3 align="left">Connect with me:</h3>
+💡 I believe good design and solid development go hand-in-hand. My goal is to build products that are simple, beautiful, and impactful.
+
+---
+
+## 📈 **Currently Exploring**
+- ⚛️ Mastering ReactJS and component-driven development  
+- 🧩 Exploring custom hooks and API integration  
+- 🎨 Building modern responsive UIs with Tailwind CSS  
+- 🚀 Learning Firebase for authentication & hosting  
+- 💻 Experimenting with animation and UI libraries  
+
+---
+
+## 🚀 **Dev Arsenal I Use**
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/md.zahidul.islam.818203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.zahidul.islam.818203" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🔗 **Connect with me**
+<p align="left">
+  <a href="https://www.facebook.com/md.zahidul.islam.818203">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:zahidul670791@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801645769571">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📄 **My Resume**
+🎯 [View My Resume](https://drive.google.com/file/d/1_r3ARx-hQzhrnBfLnhxPmLNrte6QIgU8/view)
+
+---
+
+## 📊 **GitHub Status**
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidulWD&show_icons=true&theme=dark" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidulWD&layout=compact&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidulWD&theme=github-dark&area=true&hide_border=false&custom_title=Monthly%20GitHub%20Contributions" />
+</p>
+
+---
+
+## 🐍 **GitHub Contribution**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zahidulWD/zahidulWD/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+## 🧠 **My Philosophy**
+
+> “I aim to build creative, responsive, and efficient web applications that combine design with logic — where simplicity meets functionality.”
