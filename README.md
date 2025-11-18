@@ -2,7 +2,7 @@
 
 # Md. Zahidul Islam
 
-### Front-End Developer &nbsp;||&nbsp; JavaScript Enthusiast &nbsp;||&nbsp; React Learner
+### Front-End Developer &nbsp;||&nbsp; JavaScript Enthusiast &nbsp;||&nbsp; React Developer
 
 ---
 
