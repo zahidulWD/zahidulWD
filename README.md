@@ -59,7 +59,7 @@ I believe in writing clean, efficient, and maintainable code that not only solve
 ---
 
 ## 📄 **My Resume**
-🎯 [View My Resume](https://drive.google.com/file/d/1_r3ARx-hQzhrnBfLnhxPmLNrte6QIgU8/view)
+🎯 [View My Resume](https://https://drive.google.com/file/d/10SVxjWpUbkFhcAkG2k_1axWxNUD09H8U/view)
 
 ---
 
