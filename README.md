@@ -42,7 +42,6 @@ I believe in writing clean, efficient, and maintainable code that not only solve
 </p>
 
 ---
-
 ## 🔗 **Connect with me**
 <p align="left">
   <a href="https://www.facebook.com/md.zahidul.islam.818203">
@@ -54,9 +53,11 @@ I believe in writing clean, efficient, and maintainable code that not only solve
   <a href="https://wa.me/8801645769571">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/md-zahidul-islam1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
 
 ## 📄 **My Resume**
 🎯 [View My Resume](https://drive.google.com/file/d/10SVxjWpUbkFhcAkG2k_1axWxNUD09H8U/view
